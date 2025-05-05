@@ -1,3 +1,5 @@
+![image](https://github.com/alihancakir/TEKNOFEST-2023-SEMI-ALTITUDE-ROCKET-COMPETITION/blob/main/me.jpg)
+
 Hello everyone,
 
 In 2023, I participated in the "TEKNOFEST Mid-Altitude Rocket Competition". 
